@@ -46,6 +46,7 @@ module.exports = {
     '@typescript-eslint/no-shadow': 'off',
     'no-console': 'off',
     'require-yield': 'off',
+    '@typescript-eslint/no-unused-vars': 'off',
   },
   settings: {
     react: {

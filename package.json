@@ -31,6 +31,7 @@
     "@babel/preset-typescript": "^7.17.12",
     "@testing-library/react": "^13.2.0",
     "@types/jest": "^27.5.1",
+    "@types/lodash.debounce": "^4.0.7",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.5",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
@@ -67,6 +68,7 @@
   },
   "dependencies": {
     "clsx": "^1.1.1",
+    "lodash.debounce": "^4.0.8",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-redux": "^8.0.2",
